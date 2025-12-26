@@ -2,7 +2,7 @@
 
 <img src="./figures/dimensional_model.png" alt="dimensional model" width="50%" />
 
-This is a simple demo of how you can use Metric Views in Databricks to create your semantic models directly in our platform.  
+This is a demo on how you can use Metric Views in Databricks to create your semantic models directly in our platform.  
 This demo is using the [Retail Store Star Schema Dataset](https://www.kaggle.com/datasets/shrinivasv/retail-store-star-schema-dataset?select=fact_sales_denormalized.csv). 
 
 Adding your semantic models directly in Databricks lets you benefit from using the Databricks compute for querying your data, despites also being integrated to the Unity Catalog, allowing for truly unified governance and optimal performance.
